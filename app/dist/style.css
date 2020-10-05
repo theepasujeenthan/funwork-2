@@ -1,0 +1,101 @@
+.navbar-brand{
+    color:blue !important;
+}
+
+.navbar-default{
+    background-color: #ffffff;
+    border-color: #ffffff;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 10px;
+    margin-top: 15px!important;
+    box-shadow: -3px -3px 7px #e6e6e6, 3px 3px 5px rgba(94, 104, 121, 0.945);
+}
+
+.row h2{
+    margin-left: 30px;
+}
+/*.my_home{
+    background-image: url(./logo.png);
+}*/
+.mb-4{
+    text-align: center!important;
+}
+.form{
+        background-color: #fff;
+        padding-top: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 40px;
+        border-radius: 4px;
+        box-shadow: -5px -2px 7px #dededeb2, 3px 3px 5px rgba(156, 156, 156, 0.945);
+    }  
+    .panel{
+        background-color:#fff;
+        padding-top: 30px;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+        border-radius: 4px;
+        box-shadow: -5px -2px 7px #dededeb2, 3px 3px 5px rgba(156, 156, 156, 0.945);
+
+    }
+    .panel-heading{
+        background-color:blue!important;
+        color: white!important;
+        font-size: 25px;
+    }
+
+
+.cardmycard {
+	text-align: center;
+	background-color: lightgreen !important;
+	margin-bottom: 30px;
+	padding: 8px;
+	box-shadow: 0 0 20px #c1c1c1;
+}
+.cardmycard :hover{
+    opacity: 0.6 !important;
+    
+  }
+  .home{
+    background-color: #0575E6 !important;
+    color: white;
+    font-size: x-large !important;
+    font-weight: bold !important;
+    
+}
+.btn{
+    background-color: blue;
+    color:white;
+}
+
+.myFooter {
+    background-color: #ffffff;
+    border-color: #ffffff;
+    border-radius: 5px;
+    margin-top: 15px!important;
+    box-shadow: -3px -3px 7px #e6e6e6, 3px 3px 5px rgba(94, 104, 121, 0.945);
+    text-align: center!important;
+}
+.container-fluid {
+    padding-right: 15px!important;
+    padding-left: 15px!important;
+    margin-right: auto ;
+    margin-left: auto;
+}
+
+
+.container .jumbotron, .container-fluid .jumbotron {
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 6px;
+}
+
+.jumbotron {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    color: inherit;
+    background-color: #eee;
+}
